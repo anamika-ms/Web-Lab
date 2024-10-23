@@ -11,7 +11,7 @@ This repository contains the experiments for the Web Programming Lab as part of 
 
 The experiments are organized into cycles that follow the university guidelines. Each cycle progressively enhances your understanding and skills in web development.
 
-Cycle Overview:
+#### Cycle Overview:
 
 Cycle 1: Basic HTML structure and styling. Covers topics like various HTML tags, creating forms, tables, and simple static web pages.
 
@@ -36,4 +36,4 @@ You are encouraged to experiment further with the code to enhance your understan
 
 ---
 
-Feel free to explore each cycle folder for the corresponding experiments. <br>If you encounter any issues or wish to contribute, please raise an issue or submit a pull request.
+Feel free to explore each cycle folder for the corresponding experiments. <br><br>If you encounter any issues or wish to contribute, please raise an issue or submit a pull request.
