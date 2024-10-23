@@ -2,14 +2,13 @@
   <strong>Web Programming Lab</strong>  
 </h2>
 
- Overview
+## Overview
 
 This repository contains the experiments for the Web Programming Lab as part of the MCA curriculum, as prescribed by the APJ Abdul Kalam Technological University (KTU). The lab focuses on fundamental and advanced web technologies, divided into multiple cycles. Each cycle covers a set of experiments designed to develop practical skills in HTML, CSS, JavaScript, and related web programming concepts.
 
 
----
 
-Lab Experiments
+## Lab Experiments
 
 The experiments are organized into cycles that follow the university guidelines. Each cycle progressively enhances your understanding and skills in web development.
 
@@ -27,9 +26,8 @@ Cycle 5: Final cycle focuses on combining everything into a project and masterin
 
 
 
----
 
-Important Notes
+## Important Notes
 
 All programs are designed to adhere to the KTU MCA curriculum.
 
@@ -41,4 +39,4 @@ You are encouraged to experiment further with the code to enhance your understan
 
 ---
 
-Feel free to explore each cycle folder for the corresponding experiments. If you encounter any issues or wish to contribute, please raise an issue or submit a pull request.
+Feel free to explore each cycle folder for the corresponding experiments. <br>If you encounter any issues or wish to contribute, please raise an issue or submit a pull request.
