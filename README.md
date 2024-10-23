@@ -13,15 +13,15 @@ The experiments are organized into cycles that follow the university guidelines.
 
 #### Cycle Overview :
 
-<b><u>Cycle 1 : </b></u>Basic HTML structure and styling. Covers topics like various HTML tags, creating forms, tables, and simple static web pages.
+Cycle 1 : Basic HTML structure and styling. Covers topics like various HTML tags, creating forms, tables, and simple static web pages.
 
-Cycle 2: Incorporates CSS and JavaScript to make web pages interactive and responsive.
+Cycle 2 : Incorporates CSS and JavaScript to make web pages interactive and responsive.
 
-Cycle 3: Introduction to advanced web technologies like Iframes, multimedia integration, and dynamic content manipulation.
+Cycle 3 : Introduction to advanced web technologies like Iframes, multimedia integration, and dynamic content manipulation.
 
-Cycle 4: Working with client-side scripting, exploring HTML5, and building dynamic web pages with responsive design elements.
+Cycle 4 : Working with client-side scripting, exploring HTML5, and building dynamic web pages with responsive design elements.
 
-Cycle 5: Final cycle focuses on combining everything into a project and mastering the deployment of web applications.
+Cycle 5 : Final cycle focuses on combining everything into a project and mastering the deployment of web applications.
 
 
 
